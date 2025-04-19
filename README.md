@@ -1,4 +1,4 @@
-# -Failed-Python-Ant-Simulation
+# Python-Ant-Simulation
 
 ## To use
 Q -> Drops food for the ants\
